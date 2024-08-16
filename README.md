@@ -1,1 +1,1 @@
-# This repository is mainly some Kaggle competition projects about NLP
+This repository is mainly some Kaggle competition projects about NLP
